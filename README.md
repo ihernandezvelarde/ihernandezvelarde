@@ -1,14 +1,13 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"width="200" />
     <h1 align="center">Hi!👋 I'm Irene Hernández Velarde</h1>
-    <h3 align="center">I am currently a DAW (Web Application Development) student at the Instituto La Salle Gràcia,
-         but I am focused on learning to Develop Multiplatform Applications</h3>
+    <h3 align="center">I am currently a DAM (Multiplatform Application Development) student.</h3>
 </div>
 
 ### 📖 About Me :
 
-- 🌱 I am currently learning Java, Swift, Kotlin, MySQL, HTML5, CSS and JavaScript
-- 📫 How to contact me: jliebanadelgado@gmail.com
+- 🌱 I am currently learning Swift, Java, Python, MySQL, HTML and CSS.
+- 📫 How to contact me: irene.hernandezihv@gmail.com
 
 <div align="left">
     <h3>⚒ Languages and Tools:</h3>
