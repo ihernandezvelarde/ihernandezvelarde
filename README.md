@@ -1,13 +1,13 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-    <h1 align="center">Hi! I'm Irene Hernández</h1>
+    <h1 align="center">Hi! I'm Irene Hernández👋🏻 👩🏻‍💻</h1>
     <h3 align="left">Currently I'm a Multiplatform Application Development student.</h3>
 </div>
 
 ### 📖 About Me :
 
-- 🌱 I am currently learning Swift, Java, Python, MySQL, HTML, CSS and JavaScript.
-- 📫 How to contact me: irene.hernandezihv@gmail.com
+- I am currently learning Swift, Java, Python, MySQL, HTML, CSS and JavaScript.
+- How to contact me: irene.hernandezihv@gmail.com
 
 <div align="left">
     <h3>⚒ Languages and Tools:</h3>
