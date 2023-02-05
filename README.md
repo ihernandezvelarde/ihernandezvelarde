@@ -6,7 +6,7 @@
 
 ### 📖 About Me :
 
-- I am currently learning Swift, Java, Python, MySQL, HTML, CSS and JavaScript.<br>
+- I am currently learning Swift, Java, Python, MySQL, HTML, CSS, JavaScript and Android.<br>
 - How to contact me: <br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Gmail" alt="Gmail" width="17" height="17">   irene.hernandezihv@gmail.com<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="20" height="20"> [Irene Hernández](https://www.linkedin.com/in/irene-hern%C3%A1ndez-velarde-3bb07621a/)
